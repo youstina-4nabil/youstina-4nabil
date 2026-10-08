@@ -36,6 +36,9 @@
   <a href="https://www.linkedin.com/in/youstina-nabil-601012374">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>  
+  <a href="https://wa.me/201273452373">
+  <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
   <a href="https://github.com/youstina-4nabil">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
