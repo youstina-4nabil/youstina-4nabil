@@ -47,7 +47,7 @@
 ---
 
 <p align="center">
-  <img src="[https://giphy.com/gifs/zero21surf-www-gppark-greenplacepark-n1dFDLwXu4Qkwy7OJ0](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzVqMGdsNXk5YXg3b2VyMG00OHM0emN3bHU1cHBybHYwY3NiMmlrcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n1dFDLwXu4Qkwy7OJ0/giphy.gif)" width="300" alt="coding gif" />
+  <img src="https://media.giphy.com/media/n1dFDLwXu4Qkwy7OJ0/giphy.gif" width="300" alt="coding gif" />
 </p>
 ---
 
