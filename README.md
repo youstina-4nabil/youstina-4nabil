@@ -39,13 +39,14 @@
   <a href="https://wa.me/20رقمك-من-غير-صفر">
     <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/PHONE-%2B20%20رقمك-555555?style=for-the-badge" />
   <a href="https://github.com/youstina-4nabil">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
- ---
- ### 😺 My GitHub Stats:
+
+---
+
+### 😺 My GitHub Stats:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youstina-4nabil&layout=compact&theme=dark&hide_border=true" />
