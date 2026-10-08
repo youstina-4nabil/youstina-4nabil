@@ -49,7 +49,9 @@
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGRnMnNpc2RmdXhmdXk5MnplNGwxYmR6NHJoa2NqajRxd3Zjbnk2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="300" alt="coding gif" />
 </p>
+
 ---
+
 
 ### 😺 My GitHub Stats:
 
