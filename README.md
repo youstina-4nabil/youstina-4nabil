@@ -30,15 +30,12 @@
 ### 📫 Contact Me
 
 <p align="center">
-  <a href="mailto:حطي-الايميل-هنا">
+  <a href="mailto:youstinanabil641@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="حطي-لينك-LinkedIn-هنا">
+  <a href="https://www.linkedin.com/in/youstina-nabil-601012374">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://wa.me/20رقمك-من-غير-صفر">
-    <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
+  </a>  
   <a href="https://github.com/youstina-4nabil">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
