@@ -46,6 +46,11 @@
 
 ---
 
+<p align="center">
+  <img src="https://giphy.com/gifs/zero21surf-www-gppark-greenplacepark-n1dFDLwXu4Qkwy7OJ0" width="300" alt="coding gif" />
+</p>
+---
+
 ### 😺 My GitHub Stats:
 
 <p align="center">
