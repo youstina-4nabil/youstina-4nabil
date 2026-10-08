@@ -14,14 +14,14 @@
 - 💙 Building mobile apps with Flutter & Dart
 - 🧠 Solving problems on LeetCode
 - 🔍 Looking for a Flutter internship to work on real projects
-
+---
 ### 🛠️ Tech Stack & Skills
 - Flutter / Dart
 - Git & GitHub
 - HTML / CSS
 - Problem Solving & Data Structures
 - Soft Skills: Communication, Teamwork, Growth Mindset
-
+---
 ### 📱 Projects
 | Project | Description | Link |
 |---------|-------------|------|
